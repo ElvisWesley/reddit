@@ -1,3 +1,4 @@
+# Reddit app that shows 5 most popular posts of the day. Can search for subreddits to show their top 5
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
